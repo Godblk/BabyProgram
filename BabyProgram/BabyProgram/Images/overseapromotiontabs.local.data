@@ -1,0 +1,26 @@
+{"oversea_flash_sale_tab":
+[{
+"type": "oversea_flash_sale",
+"cat": "today_sales",
+"desc": "今日秒杀",
+"api_url": "",
+"img": "http://b0.hucdn.com/img/op/1511/30/68111077764877_48x48.png",
+"select_img": "http://b0.hucdn.com/img/op/1511/30/68152258024877_48x48.png"
+},
+{
+"type": "oversea_flash_sale",
+"cat": "final_sales",
+"desc": "最后疯抢",
+"api_url": "http://sapi.beibei.com/oversea/promotion/%d-%d-0-1-0-0-%d.html",
+"img": "http://b0.hucdn.com/img/op/1511/30/68180873424877_48x48.png",
+"select_img": "http://b0.hucdn.com/img/op/1511/30/68205870294877_48x48.png"
+},
+{
+"type": "oversea_flash_sale",
+"cat": "my_notice",
+"desc": "我的提醒",
+"api_url": "http://api.beibei.com/mroute.html?method=beibei.user.favor.remind.get&page=%d&page_size=%d&type=oversea",
+"img": "http://b0.hucdn.com/img/op/1511/30/68264379344877_40x44.png",
+"select_img": "http://b0.hucdn.com/img/op/1511/30/68243776004877_40x44.png"
+}
+]}
